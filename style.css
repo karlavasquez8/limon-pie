@@ -1,0 +1,43 @@
+ul li p {
+    font-size: 16px;
+    font-family: Times New Roman
+}
+
+h2 {
+    font-size: 24px;
+
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    width: 100%;
+
+}
+
+.logo {
+    position: absolute;
+    top: 30px;
+    /* Ajusta los valores de top, right, bottom y left según la esquina deseada */
+    left: 30px;
+}
+
+.procedimiento {
+    margin: 2rem;
+}
+
+.contenedor {
+    padding: 20px;
+}
